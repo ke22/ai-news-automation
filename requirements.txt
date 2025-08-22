@@ -6,3 +6,4 @@ pandas
 openai
 tqdm
 beautifulsoup4
+google-generativeai
