@@ -1,0 +1,8 @@
+requests
+PyYAML
+python-dateutil
+feedparser
+pandas
+openai
+tqdm
+beautifulsoup4

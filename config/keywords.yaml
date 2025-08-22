@@ -1,0 +1,6 @@
+weights:
+  technical_breakthrough: [breakthrough, state-of-the-art, SOTA, benchmark, outperform, novel, research, paper, parameter, inference, multimodal, robotics]
+  industry_impact: [adoption, partnership, regulation, compliance, enterprise, platform, open-source, framework, standard]
+  practical_value: [tutorial, toolkit, SDK, plugin, code, dataset, walkthrough, guide]
+  timeliness: [today, yesterday, launch, release, announced]
+boost_publishers: [openai, google, deepmind, meta, anthropic, microsoft, nvidia, hugging face]

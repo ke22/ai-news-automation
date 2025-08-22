@@ -1,0 +1,17 @@
+newsapi:
+  enabled: true
+  query: >
+    ("artificial intelligence" OR "AI" OR "machine learning" OR "LLM" OR "genAI" OR "deep learning")
+  language: en
+  page_size: 50
+rss:
+  enabled: true
+  feeds:
+    - https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
+    - https://www.theverge.com/rss/index.xml
+    - https://feeds.arstechnica.com/arstechnica/technology-lab
+    - https://techcrunch.com/tag/ai/feed/
+    - https://hnrss.org/newest?q=ai
+fallback_hn_algolia:
+  enabled: true
+  query: "ai OR artificial intelligence OR LLM OR machine learning"
