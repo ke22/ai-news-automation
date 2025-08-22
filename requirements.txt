@@ -7,3 +7,7 @@ openai
 tqdm
 beautifulsoup4
 google-generativeai
+flask
+gspread
+google-auth
+PyGithub

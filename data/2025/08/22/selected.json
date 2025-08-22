@@ -1,11 +1,27 @@
 [
   {
-    "id": "b73fde42163ad5c29b97c261124b51e00ee8ea68",
+    "id": "85896a6058c2bc6debdaf860e129ab62fff9a41a",
     "title": "Show HN: Tabwise – AI data analyst that outperforms ChatGPT and Claude",
-    "url": "https://www.brandbucket.com/names/tabwise",
-    "published_at": "2025-08-22T14:31:02+00:00",
+    "url": "https://tabwise.ai/",
+    "published_at": "2025-08-22T15:04:54+00:00",
     "source": "Hacker News - Newest: \"ai\"",
-    "summary": "<p>Hey HN! I'm Abhishek. I’m a designer and product builder. I’ve been building AI products for the past year after leaving my design job, where I worked on dev tools being used by 1M+ engineers.<p>Previously I built Allyce AI (<a href=\"https://allyce.ai/\" rel=\"nofollow\">https://allyce.ai/</a>), which helps answer questions, qualify leads, and handle complaints on websites (AI for sales/SDR + CS). When I started as an independent builder, the first thing I built was a sophisticated GraphRAG pipeline that powers Allyce. The customers using Allyce needed something to analyze sales data and ad performance data, which wasn't possible with RAG - that's what led me to build Tabwise as a separate product.<p>The key insight was that general AI tools fail at data analysis because they skip three critical steps:\n1. Pre-processing: Cleaning data, inferring schema and structuring context specifically for analytical queries\n2. Context engineering: Crafting prompts that understand data relationships, business context, and expected output formats\n3. Post-processing: Converting raw LLM outputs into properly formatted charts, executive summaries, and actionable insights<p>This pipeline is why Tabwise can consistently outperform ChatGPT (GPT-5 Thinking) and Claude (Sonnet-4) on data analysis tasks - it's not just the model, it's the entire system.<p>Tech stack: Next.js, Vercel AI SDK, E2B, I automatically route tasks to the best model based on complexity (Powered by Claude sonnet-4 and OSS models via Fireworks AI)<p>Right now I'm focused on nailing spreadsheets (.xlsx, .csv), but have more data source integrations planned based on what users actually need.<p>Would love your thoughts.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=44985145\">https://news.ycombinator.com/item?id=44985145</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>"
+    "summary": "<p>Hey HN! I'm Abhishek. I’m a designer and product builder. I’ve been building AI products for the past year after leaving my design job, where I worked on dev tools being used by 1M+ engineers.<p>Previously I built Allyce AI (<a href=\"https://allyce.ai/\" rel=\"nofollow\">https://allyce.ai/</a>), which helps answer questions, qualify leads, and handle complaints on websites (AI for sales/SDR + CS). When I started as an independent builder, the first thing I built was a sophisticated GraphRAG pipeline that powers Allyce. The customers using Allyce needed something to analyze sales data and ad performance data, which wasn't possible with RAG - that's what led me to build Tabwise as a separate product.<p>The key insight was that general AI tools fail at data analysis because they skip three critical steps:\n1. Pre-processing: Cleaning data, inferring schema and structuring context specifically for analytical queries\n2. Context engineering: Crafting prompts that understand data relationships, business context, and expected output formats\n3. Post-processing: Converting raw LLM outputs into properly formatted charts, executive summaries, and actionable insights<p>This pipeline is why Tabwise can consistently outperform ChatGPT (GPT-5 Thinking) and Claude (Sonnet-4) on data analysis tasks - it's not just the model, it's the entire system.<p>Tech stack: Next.js, Vercel AI SDK, E2B, I automatically route tasks to the best model based on complexity (Powered by Claude sonnet-4 and OSS models via Fireworks AI)<p>Right now I'm focused on nailing spreadsheets (.xlsx, .csv), but have more data source integrations planned based on what users actually need.<p>Would love your thoughts.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=44985515\">https://news.ycombinator.com/item?id=44985515</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>"
+  },
+  {
+    "id": "a941ac2046ebe69cc6ed3138ea581dcbed80c037",
+    "title": "in Code: The Baby Paradox in Haskell",
+    "url": "https://blog.jle.im/entry/the-baby-paradox-in-haskell.html",
+    "published_at": "2025-08-21T15:36:28+00:00",
+    "source": "Blog.jle.im",
+    "summary": "Everybody\nLoves My Baby is a Jazz Standard from 1924 with the famous lyric:\n\nEverybody loves my baby, but my baby don’t love nobody but me.\r\n\n\nWhich is often formalized as:\n\\[\n\\begin{align}\n\\text{Axiom}_1 . & \\forall x. \\text{Loves}(x, \\text{Baby}) \\\\\n\\text{A…"
+  },
+  {
+    "id": "b410ec0784debcbff218f2054410eb09b8c878e2",
+    "title": "AMD releases FidelityFX SDK 2.0 and UE5 plugin with FSR 4 support",
+    "url": "https://www.cgchannel.com/2025/08/amd-releases-fidelityfx-sdk-2-0-and-ue5-plugin-with-fsr-4/",
+    "published_at": "2025-08-21T15:37:23+00:00",
+    "source": "Cgchannel.com",
+    "summary": "SDK for developers looking to integrate FidelityFX tech into their apps now includes latest version of the AI image upscaling system."
   },
   {
     "id": "0b87bd2dba8ab62f821fd900359db4b8fd0452fa",
@@ -24,6 +40,14 @@
     "summary": "Alex Kachkine spends his days working on microchip research — a skill set surprisingly similar to that needed for restoration."
   },
   {
+    "id": "67a9e60e46bf25f8324a2665096a7a23045b96bf",
+    "title": "Truist Reaffirms UiPath (PATH) Hold Rating, Notes Aggressive Moves in AI and Automation",
+    "url": "https://biztoc.com/x/c0acb735f3afa632",
+    "published_at": "2025-08-21T15:30:48+00:00",
+    "source": "Biztoc.com",
+    "summary": "In this article:\nUiPath Inc. (NYSE:PATH) ranks among the top robotics to buy according to analysts. In line with its cautious approach toward the company, Truist Securities reaffirmed its Hold rating and $13 price target on UiPath Inc. (NYSE:PATH) on July 15.…"
+  },
+  {
     "id": "d597e54c1b48bf9ed889f0635c7114fbe54df9e2",
     "title": "Report: Meta is hitting pause on AI hiring after its poaching spree",
     "url": "https://techcrunch.com/2025/08/21/report-meta-is-hitting-pause-on-ai-hiring-after-its-poaching-spree/",
@@ -35,7 +59,7 @@
     "id": "c04e0abf833cd76b58c1b0e98694476e967de050",
     "title": "French Authorities Investigate Death of Streamer Jean Pormanove After Months of Abuse",
     "url": "https://www.nytimes.com/2025/08/21/world/europe/jean-pormanove-dead-streamer-kick-french.html",
-    "published_at": "2025-08-21T19:23:24+00:00",
+    "published_at": "2025-08-22T15:40:38+00:00",
     "source": "NYT > Technology",
     "summary": "Raphaël Graven, known online as Jean Pormanove, was regularly subjected to humiliation and abuse on Kick, a streaming platform."
   },
@@ -61,7 +85,7 @@
     "url": "https://news.ycombinator.com/item?id=44984096",
     "published_at": "2025-08-22T12:59:07+00:00",
     "source": "Hacker News - Newest: \"ai\"",
-    "summary": "<p>Hi HN, we are Liam and Eoghan of Inconvo (<a href=\"https://inconvo.com\">https://inconvo.com</a>), a platform that makes it easy to build and deploy AI analytics agents into your SaaS products, so your customers can quickly interact with their data.<p>There’s a demo video at <a href=\"https://www.youtube.com/watch?v=4wlZL3XGWTQ\" rel=\"nofollow\">https://www.youtube.com/watch?v=4wlZL3XGWTQ</a> and a live demo at <a href=\"https://demo.inconvo.ai/\" rel=\"nofollow\">https://demo.inconvo.ai/</a> (no signup required). Docs are at <a href=\"https://inconvo.com/docs\">https://inconvo.com/docs</a>.<p>SaaS products typically offer dashboards and reports, which work for high-level metrics but are clunky for drill-downs and slow for ad-hoc questions. Modern users, shaped by tools like ChatGPT, now expect a similar degree of speed and flexibility when getting insights from their data. To meet these expectations, you need an AI analytics agent, but these are painful to develop and manage.<p>Inconvo is a platform built from the ground up for developers building AI agents for customer-facing analytics. We make it simple to expose data to Inconvo by connecting to SQL databases. We offer a semantic model to create a layer that governs data access and defines business logic, conversation logs to track user interactions, and a developer-friendly API for easy integration. For observability we show a trace for each agent response to make agent behaviour easily debuggable.<p>We didn’t start out building Inconvo, initially we built a developer productivity SaaS from which we pivoted. Our favourite feature of that product was its analytics agent, and we knew that building one was a big enough problem to solve on its own so we decided to build a developer tool to do so.<p>Our API is designed for multi-tenant databases, allowing you to pass session information as context. This instructs the agent to only analyse data relevant to the specific tenant making the request.<p>Most of our competitors are BI tools primarily designed for internal analytics with limited embedding options through iFrame or unintuitive APIs.<p>If you’re concerned about AI SQL generation, we are too. In our opinion, AI agents for customer-facing analytics shouldn’t generate and run raw SQL without validation. Instead, our agents generate structured query objects that are programmatically validated to guarantee they request only the data allowed within the context of the request. Then we send validated objects to our QueryEngine which converts the object to SQL. With this approach we ensure a bounded set of possible SQL that can be generated, which stops the agent from hallucinating and running rouge queries.<p>Our pricing is upfront and available on our website. You can try the platform for free without a credit card.<p>If you want to try out the full product, you can sign up for free at <a href=\"https://auth.inconvo.ai/en/signup\" rel=\"nofollow\">https://auth.inconvo.ai/en/signup</a>. As mentioned, our sandbox demo is at <a href=\"https://demo.inconvo.ai/\" rel=\"nofollow\">https://demo.inconvo.ai/</a>, and there’s a video at <a href=\"https://youtu.be/4wlZL3XGWTQ\" rel=\"nofollow\">https://youtu.be/4wlZL3XGWTQ</a>.<p>We're really interested in any feedback you have so please share your thoughts and ideas in the comments, as we aim to make this tool as developer-friendly as possible. Thanks!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=44984096\">https://news.ycombinator.com/item?id=44984096</a></p>\n<p>Points: 14</p>\n<p># Comments: 7</p>"
+    "summary": "<p>Hi HN, we are Liam and Eoghan of Inconvo (<a href=\"https://inconvo.com\">https://inconvo.com</a>), a platform that makes it easy to build and deploy AI analytics agents into your SaaS products, so your customers can quickly interact with their data.<p>There’s a demo video at <a href=\"https://www.youtube.com/watch?v=4wlZL3XGWTQ\" rel=\"nofollow\">https://www.youtube.com/watch?v=4wlZL3XGWTQ</a> and a live demo at <a href=\"https://demo.inconvo.ai/\" rel=\"nofollow\">https://demo.inconvo.ai/</a> (no signup required). Docs are at <a href=\"https://inconvo.com/docs\">https://inconvo.com/docs</a>.<p>SaaS products typically offer dashboards and reports, which work for high-level metrics but are clunky for drill-downs and slow for ad-hoc questions. Modern users, shaped by tools like ChatGPT, now expect a similar degree of speed and flexibility when getting insights from their data. To meet these expectations, you need an AI analytics agent, but these are painful to develop and manage.<p>Inconvo is a platform built from the ground up for developers building AI agents for customer-facing analytics. We make it simple to expose data to Inconvo by connecting to SQL databases. We offer a semantic model to create a layer that governs data access and defines business logic, conversation logs to track user interactions, and a developer-friendly API for easy integration. For observability we show a trace for each agent response to make agent behaviour easily debuggable.<p>We didn’t start out building Inconvo, initially we built a developer productivity SaaS from which we pivoted. Our favourite feature of that product was its analytics agent, and we knew that building one was a big enough problem to solve on its own so we decided to build a developer tool to do so.<p>Our API is designed for multi-tenant databases, allowing you to pass session information as context. This instructs the agent to only analyse data relevant to the specific tenant making the request.<p>Most of our competitors are BI tools primarily designed for internal analytics with limited embedding options through iFrame or unintuitive APIs.<p>If you’re concerned about AI SQL generation, we are too. In our opinion, AI agents for customer-facing analytics shouldn’t generate and run raw SQL without validation. Instead, our agents generate structured query objects that are programmatically validated to guarantee they request only the data allowed within the context of the request. Then we send validated objects to our QueryEngine which converts the object to SQL. With this approach we ensure a bounded set of possible SQL that can be generated, which stops the agent from hallucinating and running rouge queries.<p>Our pricing is upfront and available on our website. You can try the platform for free without a credit card.<p>If you want to try out the full product, you can sign up for free at <a href=\"https://auth.inconvo.ai/en/signup\" rel=\"nofollow\">https://auth.inconvo.ai/en/signup</a>. As mentioned, our sandbox demo is at <a href=\"https://demo.inconvo.ai/\" rel=\"nofollow\">https://demo.inconvo.ai/</a>, and there’s a video at <a href=\"https://youtu.be/4wlZL3XGWTQ\" rel=\"nofollow\">https://youtu.be/4wlZL3XGWTQ</a>.<p>We're really interested in any feedback you have so please share your thoughts and ideas in the comments, as we aim to make this tool as developer-friendly as possible. Thanks!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=44984096\">https://news.ycombinator.com/item?id=44984096</a></p>\n<p>Points: 18</p>\n<p># Comments: 8</p>"
   },
   {
     "id": "7bc4fac349299a895a9f7b8590985d9eb48baf69",
@@ -80,6 +104,46 @@
     "summary": "<p>Article URL: <a href=\"https://askcyph.ai\">https://askcyph.ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=44983210\">https://news.ycombinator.com/item?id=44983210</a></p>\n<p>Points: 1</p>\n<p># Comments: 1</p>"
   },
   {
+    "id": "b78067bea51c3f67ee18f8a3d26c49eac5d117d8",
+    "title": "Entrepreneurship Essentials Revolutionizes AI Integration with Strategic Workflow Framework in Arizona Workshop",
+    "url": "https://www.globenewswire.com/news-release/2025/08/21/3137337/0/en/Entrepreneurship-Essentials-Revolutionizes-AI-Integration-with-Strategic-Workflow-Framework-in-Arizona-Workshop.html",
+    "published_at": "2025-08-21T15:39:00+00:00",
+    "source": "GlobeNewswire",
+    "summary": "Tucson, Aug.  21, 2025  (GLOBE NEWSWIRE) -- Tucson, Arizona - August 21, 2025 -  (PRESS ADVANTAGE) -    Entrepreneurship Essentials recently hosted a......"
+  },
+  {
+    "id": "65c8e51e82dc2246c721f4356d92d2fb7532fae7",
+    "title": "Reinventing ERP With Event-Driven Agentic AI",
+    "url": "https://www.forbes.com/sites/moorinsights/2025/08/21/reinventing-erp-with-event-driven-agentic-ai/",
+    "published_at": "2025-08-21T15:36:12+00:00",
+    "source": "Forbes",
+    "summary": "ERP systems are shifting from static and reactive to dynamic, event-driven platforms powered by agentic AI, enabling them to execute complex workflows autonomously."
+  },
+  {
+    "id": "0776f8e2cd953ef82b919d9d28f15e902fea129d",
+    "title": "The D Brief: Pushback in DC; Russia’s new bombardment; Marines’ drone wizards; Key AI platform, DOGEd; And a bit more.",
+    "url": "https://www.defenseone.com/threats/2025/08/the-d-brief-august-21-2025/407602/",
+    "published_at": "2025-08-21T15:32:52+00:00",
+    "source": "Defense One",
+    "summary": ""
+  },
+  {
+    "id": "3c5e6e3fb14dea4db8c76046f5225acb56fbe53c",
+    "title": "From Chatbots to Colleagues: How Agentic AI is Revolutionizing Enterprise Automation with Goal-Driven, Autonomous Systems - VMblog QA",
+    "url": "https://vmblog.com:443/archive/2025/08/21/from-chatbots-to-colleagues-how-agentic-ai-is-revolutionizing-enterprise-automation-with-goal-driven-autonomous-systems-vmblog-qa.aspx",
+    "published_at": "2025-08-21T15:31:00+00:00",
+    "source": "Vmblog.com",
+    "summary": "In this exclusive VMblog interview, Varun Goswami, Global Head of Product and AI at Newgen Software, explores the architectural shifts required to build these operational agents, from implementing stateful designs and modular workflows to establishing"
+  },
+  {
+    "id": "b74d8fe006e3e2c73b239684a3d4afb78b0eb852",
+    "title": "Meta said to be pausing its very expensive AI hiring spree",
+    "url": "https://qz.com/meta-ai-hiring-spree-pause-zuckerberg",
+    "published_at": "2025-08-21T15:28:46+00:00",
+    "source": "Quartz India",
+    "summary": "Meta Platforms abruptly halted most hiring across its AI unit, after months of offering nine-figure salaries to top talent"
+  },
+  {
     "id": "7cf7774427037e39f8d72348affd9cdaaa7e3948",
     "title": "At China’s Humanoid Robot Games, Athletes Fell Down a Lot",
     "url": "https://www.nytimes.com/2025/08/18/world/asia/china-humanoid-robot-games.html",
@@ -94,69 +158,5 @@
     "published_at": "2025-08-22T14:37:11+00:00",
     "source": "Hacker News - Newest: \"ai\"",
     "summary": "<p>Article URL: <a href=\"https://www.stochasticlifestyle.com/a-guide-to-gen-ai-llm-vibecoding-for-expert-programmers/\">https://www.stochasticlifestyle.com/a-guide-to-gen-ai-llm-vibecoding-for-expert-programmers/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=44985207\">https://news.ycombinator.com/item?id=44985207</a></p>\n<p>Points: 2</p>\n<p># Comments: 0</p>"
-  },
-  {
-    "id": "bad3a97d580e178e3a76dccf499e6b66517e4a8a",
-    "title": "Show HN: Lacquer – GitHub Actions for AI workflows in a single Go binary",
-    "url": "https://github.com/lacquerai/lacquer",
-    "published_at": "2025-08-22T14:22:45+00:00",
-    "source": "Hacker News - Newest: \"ai\"",
-    "summary": "<p>Hey folks, I wanted to share an open source project I've been working on that might interest some of you.<p>Lacquer is a lightweight AI workflow engine that turns repeatable engineering tasks into reliable YAML workflows that never skip a step. Think GitHub Actions, but for AI-powered internal tools.<p>I built this because I needed something quick and practical for my day-to-day engineering work. The market is saturated with no-code automation GUIs, but they don't fit my workflow as an engineer. With Lacquer, I wanted:<p>- Local First: Prototype workflows directly in your terminal and editor\n- Version Control: Plain YAML files you can commit to GitHub and share with your team\n- Familiar DSL: GitHub Actions-like syntax that leverages what you already know\n- Single Binary: Ships as one Go binary (~40MB) - no complex dependencies or container orchestration\n- Easy Deployment: Run locally with `laq run` or deploy to production with `laq serve`<p>It's early days, but I'd love to hear if this scratches an itch for you, or if you have ideas for what would make it more useful for your workflows.<p>GitHub: <a href=\"https://github.com/lacquerai/lacquer\" rel=\"nofollow\">https://github.com/lacquerai/lacquer</a> | Website: <a href=\"https://lacquer.ai\" rel=\"nofollow\">https://lacquer.ai</a> | Docs: <a href=\"https://lacquer.ai/docs\" rel=\"nofollow\">https://lacquer.ai/docs</a><p>Thanks for checking it out!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=44985058\">https://news.ycombinator.com/item?id=44985058</a></p>\n<p>Points: 9</p>\n<p># Comments: 1</p>"
-  },
-  {
-    "id": "9c2f52c14ffe33e2cb90011a57d9b864fdd2c469",
-    "title": "At $250 million, top AI salaries dwarf those of the Manhattan Project and the Space Race",
-    "url": "https://arstechnica.com/ai/2025/08/at-250-million-top-ai-salaries-dwarf-those-of-the-manhattan-project-and-the-space-race/",
-    "published_at": "2025-08-01T21:23:42+00:00",
-    "source": "Biz & IT – Ars Technica",
-    "summary": "A 24 year-old AI researcher will earn 327x what Oppenheimer made while developing the atomic bomb."
-  },
-  {
-    "id": "d84e36c6f87b9eadebd802474dc708c987445fa2",
-    "title": "In search of riches, hackers plant 4G-enabled Raspberry Pi in bank network",
-    "url": "https://arstechnica.com/security/2025/07/in-search-of-riches-hackers-plant-4g-enabled-raspberry-pi-in-bank-network/",
-    "published_at": "2025-07-30T22:21:56+00:00",
-    "source": "Biz & IT – Ars Technica",
-    "summary": "Sophisticated group also used novel means to disguise their custom malware."
-  },
-  {
-    "id": "12099dcb0527bed209b76528da6f10f8f78b8c34",
-    "title": "Google tests revamped Google Finance with AI upgrades, live news feed",
-    "url": "https://techcrunch.com/2025/08/08/google-tests-revamped-google-finance-with-ai-upgrades-live-news-feed/",
-    "published_at": "2025-08-08T13:50:43+00:00",
-    "source": "AI | TechCrunch",
-    "summary": "Users will now be able to research their financial questions with AI, access advanced charting tools, and get real-time data and news."
-  },
-  {
-    "id": "9716b7511249b8accf4b0e788ac15c1053a3dea3",
-    "title": "Anthropic nabs Humanloop team as competition for enterprise AI talent heats up",
-    "url": "https://techcrunch.com/2025/08/13/anthropic-nabs-humanloop-team-as-competition-for-enterprise-ai-talent-heats-up/",
-    "published_at": "2025-08-13T16:17:30+00:00",
-    "source": "AI | TechCrunch",
-    "summary": "While an Anthropic spokesperson confirmed that the AI firm did not acquire Humanloop or its IP, that’s a moot point in an industry where IP lives in the brain. And what Humanloop’s team is bringing to Anthropic is experience developing the tools that help enterprises run safe, reliable AI at scale."
-  },
-  {
-    "id": "4a7e8ce9ac5febb4b0e342bb1cc268ac7018a78d",
-    "title": "AI referrals to top websites were up 357% year-over-year in June, reaching 1.13B",
-    "url": "https://techcrunch.com/2025/07/25/ai-referrals-to-top-websites-were-up-357-year-over-year-in-june-reaching-1-13b/",
-    "published_at": "2025-07-25T20:11:08+00:00",
-    "source": "AI | TechCrunch",
-    "summary": "AI platforms in June 2025 generated over 1.13 billion referrals to the top 1,000 websites globally, up 357% year-over-year."
-  },
-  {
-    "id": "66a09135c231922a6eb68536a6cf689b3694f3b9",
-    "title": "Adult sites are stashing exploit code inside racy .svg files",
-    "url": "https://arstechnica.com/security/2025/08/adult-sites-use-malicious-svg-files-to-rack-up-likes-on-facebook/",
-    "published_at": "2025-08-08T19:41:00+00:00",
-    "source": "Biz & IT – Ars Technica",
-    "summary": "Running JavaScript from inside an image? What could possibly go wrong?"
-  },
-  {
-    "id": "33420c9efe2577309cc50767e42ee3a74ea959e7",
-    "title": "Google’s new Web Guide search experiment organizes results with AI",
-    "url": "https://techcrunch.com/2025/07/24/googles-new-web-guide-search-experiment-organizes-results-with-ai/",
-    "published_at": "2025-07-24T16:58:41+00:00",
-    "source": "AI | TechCrunch",
-    "summary": "Google's new Search Labs experiment will organize the search results using AI smarts."
   }
 ]

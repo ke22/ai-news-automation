@@ -1,7 +1,10 @@
 # 📚 APA 近似引用彙整（Top 20）
-- Hacker News - Newest: "ai"（2025）。Show HN: Tabwise – AI data analyst that outperforms ChatGPT and Claude。取自 https://www.brandbucket.com/names/tabwise
+- Hacker News - Newest: "ai"（2025）。Show HN: Tabwise – AI data analyst that outperforms ChatGPT and Claude。取自 https://tabwise.ai/
+- Blog.jle.im（2025）。in Code: The Baby Paradox in Haskell。取自 https://blog.jle.im/entry/the-baby-paradox-in-haskell.html
+- Cgchannel.com（2025）。AMD releases FidelityFX SDK 2.0 and UE5 plugin with FSR 4 support。取自 https://www.cgchannel.com/2025/08/amd-releases-fidelityfx-sdk-2-0-and-ue5-plugin-with-fsr-4/
 - NYT > Technology（2025）。Judge Blocks F.T.C. Investigation of Media Matters。取自 https://www.nytimes.com/2025/08/15/technology/media-matters-ftc-musk-injunction.html
 - NYT > Technology（2025）。The Hobbyist Restorer Who Rocked the Art World With an A.I. Innovation。取自 https://www.nytimes.com/2025/08/22/world/europe/art-restoration-ai-innovation.html
+- Biztoc.com（2025）。Truist Reaffirms UiPath (PATH) Hold Rating, Notes Aggressive Moves in AI and Automation。取自 https://biztoc.com/x/c0acb735f3afa632
 - AI | TechCrunch（2025）。Report: Meta is hitting pause on AI hiring after its poaching spree。取自 https://techcrunch.com/2025/08/21/report-meta-is-hitting-pause-on-ai-hiring-after-its-poaching-spree/
 - NYT > Technology（2025）。French Authorities Investigate Death of Streamer Jean Pormanove After Months of Abuse。取自 https://www.nytimes.com/2025/08/21/world/europe/jean-pormanove-dead-streamer-kick-french.html
 - The Verge（2025）。Belkin’s first 25W Qi2 chargers power up multiple devices。取自 https://www.theverge.com/news/763659/belkin-qi2-2-25w-wireless-charging-ultracharge-pro
@@ -9,13 +12,10 @@
 - Hacker News - Newest: "ai"（2025）。Launch HN: Inconvo (YC S23) – AI agents for customer-facing analytics。取自 https://news.ycombinator.com/item?id=44984096
 - Hacker News - Newest: "ai"（2025）。Scaling Your AI Enterprise Architecture with MCP Systems。取自 https://decodingml.substack.com/p/why-mcp-breaks-old-enterprise-ai
 - Hacker News - Newest: "ai"（2025）。AskCyph Unified AI platform (apps, chatbots, video, images via API or UI)。取自 https://askcyph.ai
+- GlobeNewswire（2025）。Entrepreneurship Essentials Revolutionizes AI Integration with Strategic Workflow Framework in Arizona Workshop。取自 https://www.globenewswire.com/news-release/2025/08/21/3137337/0/en/Entrepreneurship-Essentials-Revolutionizes-AI-Integration-with-Strategic-Workflow-Framework-in-Arizona-Workshop.html
+- Forbes（2025）。Reinventing ERP With Event-Driven Agentic AI。取自 https://www.forbes.com/sites/moorinsights/2025/08/21/reinventing-erp-with-event-driven-agentic-ai/
+- Defense One（2025）。The D Brief: Pushback in DC; Russia’s new bombardment; Marines’ drone wizards; Key AI platform, DOGEd; And a bit more.。取自 https://www.defenseone.com/threats/2025/08/the-d-brief-august-21-2025/407602/
+- Vmblog.com（2025）。From Chatbots to Colleagues: How Agentic AI is Revolutionizing Enterprise Automation with Goal-Driven, Autonomous Systems - VMblog QA。取自 https://vmblog.com:443/archive/2025/08/21/from-chatbots-to-colleagues-how-agentic-ai-is-revolutionizing-enterprise-automation-with-goal-driven-autonomous-systems-vmblog-qa.aspx
+- Quartz India（2025）。Meta said to be pausing its very expensive AI hiring spree。取自 https://qz.com/meta-ai-hiring-spree-pause-zuckerberg
 - NYT > Technology（2025）。At China’s Humanoid Robot Games, Athletes Fell Down a Lot。取自 https://www.nytimes.com/2025/08/18/world/asia/china-humanoid-robot-games.html
 - Hacker News - Newest: "ai"（2025）。A Guide to Gen AI / LLM Vibecoding for Expert Programmers。取自 https://www.stochasticlifestyle.com/a-guide-to-gen-ai-llm-vibecoding-for-expert-programmers/
-- Hacker News - Newest: "ai"（2025）。Show HN: Lacquer – GitHub Actions for AI workflows in a single Go binary。取自 https://github.com/lacquerai/lacquer
-- Biz & IT – Ars Technica（2025）。At $250 million, top AI salaries dwarf those of the Manhattan Project and the Space Race。取自 https://arstechnica.com/ai/2025/08/at-250-million-top-ai-salaries-dwarf-those-of-the-manhattan-project-and-the-space-race/
-- Biz & IT – Ars Technica（2025）。In search of riches, hackers plant 4G-enabled Raspberry Pi in bank network。取自 https://arstechnica.com/security/2025/07/in-search-of-riches-hackers-plant-4g-enabled-raspberry-pi-in-bank-network/
-- AI | TechCrunch（2025）。Google tests revamped Google Finance with AI upgrades, live news feed。取自 https://techcrunch.com/2025/08/08/google-tests-revamped-google-finance-with-ai-upgrades-live-news-feed/
-- AI | TechCrunch（2025）。Anthropic nabs Humanloop team as competition for enterprise AI talent heats up。取自 https://techcrunch.com/2025/08/13/anthropic-nabs-humanloop-team-as-competition-for-enterprise-ai-talent-heats-up/
-- AI | TechCrunch（2025）。AI referrals to top websites were up 357% year-over-year in June, reaching 1.13B。取自 https://techcrunch.com/2025/07/25/ai-referrals-to-top-websites-were-up-357-year-over-year-in-june-reaching-1-13b/
-- Biz & IT – Ars Technica（2025）。Adult sites are stashing exploit code inside racy .svg files。取自 https://arstechnica.com/security/2025/08/adult-sites-use-malicious-svg-files-to-rack-up-likes-on-facebook/
-- AI | TechCrunch（2025）。Google’s new Web Guide search experiment organizes results with AI。取自 https://techcrunch.com/2025/07/24/googles-new-web-guide-search-experiment-organizes-results-with-ai/

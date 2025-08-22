@@ -1,7 +1,8 @@
 {
-  "collected_at": "2025-08-22T15:01:49.223155+00:00",
-  "count": 91,
+  "collected_at": "2025-08-22T15:44:26.536920+00:00",
+  "count": 141,
   "sources": [
+    "newsapi",
     "rss",
     "fallback_hn_algolia"
   ]

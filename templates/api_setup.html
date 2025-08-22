@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>API 金鑰設定 - AI 新聞自動化系統</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 15px;
+            box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+            overflow: hidden;
+        }
+        
+        .header {
+            background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+            color: white;
+            padding: 30px;
+            text-align: center;
+        }
+        
+        .header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+        
+        .content {
+            padding: 40px;
+        }
+        
+        .setup-section {
+            margin-bottom: 30px;
+        }
+        
+        .setup-section h2 {
+            color: #333;
+            margin-bottom: 20px;
+            font-size: 1.8em;
+        }
+        
+        .api-card {
+            background: #f8f9fa;
+            border-radius: 10px;
+            padding: 25px;
+            margin-bottom: 20px;
+            border-left: 5px solid #4facfe;
+        }
+        
+        .api-card h3 {
+            color: #333;
+            margin-bottom: 15px;
+            font-size: 1.3em;
+        }
+        
+        .api-card p {
+            color: #666;
+            margin-bottom: 15px;
+            line-height: 1.6;
+        }
+        
+        .btn {
+            background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+            color: white;
+            border: none;
+            padding: 12px 25px;
+            border-radius: 25px;
+            cursor: pointer;
+            font-size: 1em;
+            transition: all 0.3s ease;
+            text-decoration: none;
+            display: inline-block;
+            margin-right: 10px;
+        }
+        
+        .btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(79, 172, 254, 0.4);
+        }
+        
+        .btn-secondary {
+            background: #6c757d;
+        }
+        
+        .btn-secondary:hover {
+            box-shadow: 0 5px 15px rgba(108, 117, 125, 0.4);
+        }
+        
+        .status {
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+        
+        .status-success {
+            background: #d4edda;
+            color: #155724;
+            border: 1px solid #c3e6cb;
+        }
+        
+        .status-error {
+            background: #f8d7da;
+            color: #721c24;
+            border: 1px solid #f5c6cb;
+        }
+        
+        .status-warning {
+            background: #fff3cd;
+            color: #856404;
+            border: 1px solid #ffeaa7;
+        }
+        
+        .steps {
+            background: #f8f9fa;
+            border-radius: 10px;
+            padding: 25px;
+            margin-bottom: 30px;
+        }
+        
+        .steps h3 {
+            color: #333;
+            margin-bottom: 15px;
+        }
+        
+        .steps ol {
+            color: #666;
+            line-height: 1.8;
+            padding-left: 20px;
+        }
+        
+        .steps li {
+            margin-bottom: 10px;
+        }
+        
+        .code-block {
+            background: #2d3748;
+            color: #e2e8f0;
+            padding: 15px;
+            border-radius: 8px;
+            font-family: 'Courier New', monospace;
+            font-size: 0.9em;
+            margin: 10px 0;
+            overflow-x: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🔑 API 金鑰設定</h1>
+            <p>設定您的 API 金鑰以使用 AI 新聞自動化系統</p>
+        </div>
+        
+        <div class="content">
+            <!-- 當前狀態 -->
+            <div class="setup-section">
+                <h2>📊 當前狀態</h2>
+                <div id="statusDisplay">
+                    <!-- 狀態會由 JavaScript 動態更新 -->
+                </div>
+            </div>
+            
+            <!-- 設定步驟 -->
+            <div class="setup-section">
+                <h2>📝 設定步驟</h2>
+                <div class="steps">
+                    <h3>方法一：使用設定腳本（推薦）</h3>
+                    <ol>
+                        <li>在終端機中執行：<div class="code-block">./setup_env.sh</div></li>
+                        <li>按照提示輸入您的 API 金鑰</li>
+                        <li>重新啟動 Web 介面</li>
+                    </ol>
+                    
+                    <h3>方法二：手動設定</h3>
+                    <ol>
+                        <li>在終端機中執行以下命令：</li>
+                        <div class="code-block">
+export GEMINI_API_KEY="your_actual_gemini_api_key_here"<br>
+export NEWS_API_KEY="your_actual_news_api_key_here"
+                        </div>
+                        <li>重新啟動 Web 介面</li>
+                    </ol>
+                </div>
+            </div>
+            
+            <!-- API 金鑰說明 -->
+            <div class="setup-section">
+                <h2>🔑 API 金鑰說明</h2>
+                
+                <div class="api-card">
+                    <h3>🤖 Gemini AI API 金鑰（必需）</h3>
+                    <p>用於 AI 新聞評分、分類和內容生成。這是系統的核心功能。</p>
+                    <p><strong>獲取方式：</strong></p>
+                    <ol>
+                        <li>訪問 <a href="https://makersuite.google.com/app/apikey" target="_blank">Google AI Studio</a></li>
+                        <li>登入您的 Google 帳戶</li>
+                        <li>點擊「Create API Key」</li>
+                        <li>複製生成的 API 金鑰</li>
+                    </ol>
+                    <button class="btn" onclick="window.open('https://makersuite.google.com/app/apikey', '_blank')">獲取 Gemini API 金鑰</button>
+                </div>
+                
+                <div class="api-card">
+                    <h3>📰 News API 金鑰（可選）</h3>
+                    <p>用於收集更多新聞來源。如果未設定，系統仍會使用 RSS 和 Hacker News。</p>
+                    <p><strong>獲取方式：</strong></p>
+                    <ol>
+                        <li>訪問 <a href="https://newsapi.org/register" target="_blank">NewsAPI</a></li>
+                        <li>註冊免費帳戶</li>
+                        <li>在儀表板中複製 API 金鑰</li>
+                    </ol>
+                    <button class="btn btn-secondary" onclick="window.open('https://newsapi.org/register', '_blank')">獲取 News API 金鑰</button>
+                </div>
+            </div>
+            
+            <!-- 操作按鈕 -->
+            <div class="setup-section">
+                <h2>🚀 下一步</h2>
+                <button class="btn" onclick="checkStatus()">重新檢查狀態</button>
+                <button class="btn btn-secondary" onclick="window.location.href='/'">返回主頁</button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function checkStatus() {
+            // 這裡可以添加 AJAX 請求來檢查 API 金鑰狀態
+            location.reload();
+        }
+        
+        function updateStatus() {
+            const statusDisplay = document.getElementById('statusDisplay');
+            
+            // 這裡可以添加實際的狀態檢查邏輯
+            // 目前顯示靜態內容
+            statusDisplay.innerHTML = `
+                <div class="status status-warning">
+                    <strong>⚠️ 需要設定 API 金鑰</strong><br>
+                    請按照下方步驟設定您的 API 金鑰，然後重新啟動 Web 介面。
+                </div>
+            `;
+        }
+        
+        // 頁面載入時檢查狀態
+        window.onload = function() {
+            updateStatus();
+        };
+    </script>
+</body>
+</html>
